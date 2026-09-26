@@ -759,3 +759,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 MIT
 
+## Handsoff notes
+
+<!-- handsoff-issue-197 -->
+- #197: Gated Reads Trust an Unauthenticated `querier` Parameter
