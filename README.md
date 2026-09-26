@@ -763,3 +763,6 @@ MIT
 
 <!-- handsoff-issue-197 -->
 - #197: Gated Reads Trust an Unauthenticated `querier` Parameter
+
+<!-- handsoff-issue-198 -->
+- #198: `get_alerts_modified_since` Bypasses Watcher-Gating
